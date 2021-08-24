@@ -1,0 +1,1297 @@
+@media screen and (max-width:876px) {
+    .nav-icons {
+        /* display: none; */
+        margin-left: 6em;
+    }
+
+    body {
+        width: 876px;
+        overflow-x: hidden;
+    }
+
+    .icons {
+        font-size: 1.2rem;
+        padding-right: 1em; 
+    }
+/* 
+    .container-1 {
+        width: 100%;
+    } */
+
+    #down-arrow {
+        display: none;
+    }
+    
+    .works {
+        width: 100%;
+        background: #0B1320;
+        height: 4em;
+        position: fixed;
+    }
+
+    .logos {
+        height: 2em;
+        margin-left: -15em;
+    }
+
+    .container-1 {
+        flex-direction: column;
+    }
+
+
+    .easy {
+        padding: 5em 0 0 5em;
+    }
+
+    #header {
+        font-size: 2rem;
+        margin-top: -2em;
+    }
+
+    .made {
+        font-size: 1rem;
+        margin-right: 2em;
+    }
+
+    #face {
+        width:max-content;
+        height: 50em;
+        padding-left: 4em;
+        margin-top: 1em;
+    }
+
+    .buttons {
+        display: flex;
+    }
+
+    .get {
+        height: 40px;
+        width: 180px;
+        font-size: 1rem;
+        margin-top: 1em;
+        padding: 0 1.5em 0 1.5em;
+    }
+
+    .sales {
+        height: 40px;
+        width: 230px;
+        font-size: 1rem;
+        margin-top: 1em;
+    }
+
+
+    .container-2 {
+        margin-left: 0px;
+    }
+
+
+    .love {
+        font-size: 2rem;
+        margin-top: -1em;
+        margin-right: 150px;
+    }
+
+    .fresh {
+        font-size: 1rem;
+        margin-right: 200px;
+        z-index: 999;
+    }
+
+    .container-3 {
+        flex-direction: column;
+        margin-top: -2em;
+        margin-right: 200px;
+        /* margin-left: -1950px; */
+    }
+
+    .hand-shake, .computer {
+        height: 300px;
+        /* padding-right: 7em; */
+    }
+
+    .computer {
+        margin-left: -13em;
+    }
+
+    .you, .you-1 {
+        font-size: 2rem;
+        margin-top: -0.7em;
+    }
+
+    .exceed {
+        font-size: 1rem;
+        line-height: 1.2rem;
+    }
+
+    .exceed-1 {
+        font-size: 1rem;
+        line-height: 1.2rem;
+        margin-left: -11em;
+    }
+
+    #solution, #solution-1 {
+        font-size: 1rem;
+        width: 400px;
+        height: 50px;
+        margin-top: 1em;
+    }
+
+    #solution {
+        padding: 0 2em 0 2em;
+    }
+
+    #solution-1 {
+        height: 40px;
+        margin-left: -11em; 
+    }
+
+    .market, .market-1 {
+        margin-top: 1em;
+        height: 50px;
+        font-size: 1rem;
+        padding: 0 0 0 0;
+        width: 400px;
+    }
+
+    .market-1 {
+        margin-left: -11em;
+    }
+
+    .you-1 {
+        /* margin-right: 1.5em; */
+        margin-left: -6em;
+    }
+
+    .container-4 {
+        background-color: #0B1320;
+        width: 100%;
+        height: 65em;
+        margin: 50px 0px 0px 0px;
+    }
+
+    .less {
+        font-size: 2rem;
+        margin-top: -5rem;
+        margin-left: -270px;
+    }
+
+    .maker {
+        font-size: 0.9rem;
+        line-height: 2em;
+        margin-left: -270px;
+    }
+
+    .runner {
+        margin: 0 0 0 0;
+    }
+
+    /* .friction {
+        margin: 100px 0 0 400px;
+    } */
+
+    .runner-1 {
+        margin: 600px 0 0 0;
+    }
+
+    .runner {
+        margin-top: 200px;
+    }
+
+    .purchase {
+        font-size: 1.2rem;
+    }
+
+    .notification {
+        height: 6em;
+        margin-top: 2em;
+    }
+
+    .onboard, #onboard-1 {
+        font-size: 1rem;
+    }
+
+
+    .free-trail {
+        font-size: 1rem;
+        margin-top: 0.5em;
+    }
+
+    #visit {
+        font-size: 1rem;
+        margin-top: 0.5em;
+    }
+
+    .get-up {
+        /*margin-right: 50px; */
+        margin-left:30px;
+    }
+
+    .container-5 {
+        margin-right: 200px;
+    }
+
+    .trust {
+        font-size: 2rem;
+    }
+
+    .leading {
+        font-size: 0.8rem;
+    }
+
+    .logos-com-1 {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin-right: 180px;
+    }
+
+    .logos-com {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin-right: 180px;
+    }
+
+    .pear, .brew, .stone, .show, .klarna, .vice {
+        height: 60px;
+        padding-right: 0.5em;
+        padding-top: 1em;     
+    }
+
+    .waterstons {
+        margin-top: -5em;
+        margin-right: 200px;
+    }
+
+    .upper, .close {
+        height: 50px;
+    }
+
+    .tons {
+        height: 200px;
+        width: auto;
+        padding: 0 10em 0 10em;
+    }
+
+    .great {
+        font-size: 1rem;
+        margin-top: -1em;
+        
+        margin-right: 150px;
+    }
+
+    .services {
+        font-size: 1.2em;
+        
+        margin-right: 150px;
+    }
+
+    .dots {
+        
+        margin-top: 2em;
+        margin-right: 150px;
+    }
+
+    #first-dot, #second-dot, #third-dot {
+        padding-right: 1em;
+        margin-top: 2em;
+    }
+
+    .aspire {
+        font-size: 1.5rem;
+        
+        margin-top: 2em;
+        margin-right: 220px;
+    }
+
+    .card-flex {
+        flex-direction: column;
+    }
+
+    .hat {
+        height: 20em;
+    }
+
+    .cult {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .cards {
+        
+        margin-right: 220px;
+    }
+
+    .support {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .lives {
+        font-size: 1rem;
+        height: 40px;
+        margin-left: 320px;
+    }
+
+    .new {
+        font-size: 2rem;
+        margin-top: 2em;
+        
+        margin-right: 200px;
+    }
+
+    .container-9 {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .container-10 {
+        flex-direction: column;
+    }
+
+    .container-10 {
+        
+        margin-right: 170px;
+    }
+
+    .forbes {
+        height: 300px;
+        margin-top: 2em;
+    }
+
+    .rank-numbers {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .cloud {
+        font-size: 1.5rem;
+    }
+
+    .itsm {
+        font-size: 1rem;
+    }
+
+    .read-more {
+        font-size: 1rem;
+        margin-bottom: 1em;
+    }
+
+    #arrow {
+        display: none;
+    }
+
+    .news {
+        font-size: 1rem;
+        height: 40px;
+        margin-left: 370px;
+    }
+
+    .ready-get {
+        font-size: 2.5rem;
+        
+        margin-right: 150px;
+
+    }
+
+    .saas {
+        font-size: 0.9rem;
+        margin-right: 170px;
+        
+    }
+
+    .contact {
+        font-size: 1rem;
+        height: 40px;
+        border: 2px solid #000;
+        border-radius: 5px;
+        margin-right: 150px;
+        
+    }
+
+    .tharun {
+        font-size: 2rem;
+        padding-right: 3em;
+        
+    }
+}
+
+@media screen and (max-width:480px) {
+    .nav-icons {
+        display: none;
+    }
+    
+    .works {
+        width: 100%;
+        background: #0B1320;
+        height: 7em;
+        position: fixed;
+        align-items: center;
+    }
+
+    .logos {
+        height: 4em;
+    }
+
+    .container-1 {
+        flex-direction: column;
+    }
+
+    .easy {
+        margin-top: 8em;
+    }
+
+    #header {
+        font-size: 5rem;
+    }
+
+    .made {
+        font-size: 3rem;
+    }
+
+    #face {
+        width:max-content;
+        height: 62em;
+        padding-left: 4em;
+        margin-top: 18em;
+    }
+
+    .buttons {
+        display: flex;
+        flex-direction: column;
+        width: max-content;
+    }
+
+    .get {
+        height: 100px;
+        width: auto;
+        font-size: 2rem;
+        margin-left: 1.4em;
+    }
+
+    .sales {
+        height: 100px;
+        width: auto;
+        font-size: 2rem;
+        margin-top: 3em;
+    }
+
+    .container-2 {
+        margin-left: 100px;
+    }
+
+    .love {
+        font-size: 4rem;
+        padding-right: 2em;
+    }
+
+    .fresh {
+        font-size: 2.5rem;
+        padding-right: 3.2em;
+    }
+
+    .container-3 {
+        flex-direction: column;
+        margin-left: 100px;
+    }
+
+    .hand-shake, .computer {
+        height: 600px;
+        padding-right: 6em;
+    }
+
+    .computer {
+        margin-left: -13em;
+    }
+
+    .you, .you-1 {
+        font-size: 4rem;
+        padding-right: 1em;
+    }
+
+    .you-1 {
+        margin-left: -130px;
+    }
+
+    #btns-1 {
+        margin-left: 310px;
+    }
+
+    .exceed {
+        font-size: 2rem;
+        line-height: 3rem;
+        margin-right: 2.2em;
+        margin-left: -1.4em;
+    }
+
+    .exceed-1 {
+        font-size: 2rem;
+        line-height: 3rem;
+        margin-right: 2.5em;
+        margin-left: -4em;
+    }
+
+    .btns {
+
+    }
+
+    .delight, .delight-1 {
+        margin-right: 2em;
+    }
+
+    .delight-1 {
+        margin-top: 10em;
+        margin-left: 10em;
+    }
+
+    #solution, #solution-1 {
+        font-size: 2rem;
+        width: auto;
+        margin-right: 5em;
+        height: 100px;
+        margin-top: 1em;
+    }
+
+    #solution {
+        padding: 0 2em 0 2em;
+        margin-left: 3em;
+    }
+
+    #solution-1 {
+        height: 100px;
+    }
+
+    .market, .market-1 {
+        height: 100px;
+        width: 750px;
+        font-size: 2rem;
+    }
+
+    .market {
+        margin-left: 3em;
+    }
+
+    .container-4 {
+        background-color: #0B1320;
+        width: 100%;
+        height: 270em;
+    }
+
+    .friction {
+        margin: 100px 0 0 300px;
+    }
+
+    .less {
+        font-size: 4rem;
+        margin-right: 3em;
+    }
+
+    .maker {
+        font-size: 2.2rem;
+        line-height: 2em;
+        margin-right: 6em;
+    }
+
+    .runner, .runner-1 {
+        flex-direction: column;
+    }
+
+    .runner-1 {
+        margin-top: 500px;
+    }
+
+    .purchase {
+        font-size: 4rem;
+    }
+    
+    .get-up {
+        margin: 0 0 0 0;
+    }
+
+    .notification {
+        height: 15em;
+        margin-top: 20em;
+        
+    }
+
+    .onboard, #onboard-1 {
+        font-size: 3rem;
+    }
+
+
+    .free-trail {
+        font-size: 2.5rem;
+        margin-top: 1em;
+    }
+
+    .container-5 {
+        margin-right: 10em;
+    }
+
+    .trust {
+        font-size: 4rem;
+    }
+
+    .leading {
+        font-size: 3rem;
+    }
+
+    .logos-com-1 {
+        display: none;
+    }
+
+    .logos-com {
+        flex-wrap: wrap;
+        width: 43%;
+        align-items: center;
+        justify-content: center;
+        margin-left: 350px;
+    }
+
+    .pear, .brew, .stone, .show, .klarna, .vice {
+        height: 150px;
+        padding-right: 2.8em;
+        padding-top: 1.5em;     
+    }
+
+    .waterstons {
+        margin-right: 1em;
+    }
+
+    .upper, .close {
+        height: 80px;
+    }
+
+    .tons {
+        height: 380px;
+        width: auto;
+        padding: 0 8em 0 8em;
+    }
+
+    .great {
+        font-size: 3rem;
+        margin-right: 3em;
+    }
+
+    .services {
+        font-size: 3em;
+        margin-right: 4em;
+    }
+
+    .dots {
+        margin-right: 6em;
+    }
+
+    #first-dot, #second-dot, #third-dot {
+        padding-right: 1em;
+        margin-top: 2em;
+    }
+
+    .aspire {
+        font-size: 4rem;
+        margin-right: 3em;
+    }
+
+    .card-flex {
+        flex-direction: column;
+    }
+
+    .hat {
+        height: 50em;
+    }
+
+    .cult {
+        font-size: 5rem;
+        text-align: center;
+    }
+
+    .support {
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .lives {
+        font-size: 2.5rem;
+        height: 120px;
+        letter-spacing: 1px;
+    }
+
+    .new {
+        font-size: 5rem;
+        margin-top: 2em;
+        margin-right: 2em;
+    }
+
+    .container-9 {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .container-10 {
+        flex-direction: column;
+        margin-left: 150px;
+    }
+
+    .forbes {
+        height: 700px;
+        margin-right: 7em;
+        margin-top: 2em;
+    }
+
+    .rank-numbers {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .cloud {
+        font-size: 3rem;
+        margin-right: 2.4em;
+    }
+
+    .itsm {
+        font-size: 3rem;
+        margin-right: 2em;
+    }
+
+    .read-more {
+        font-size: 3rem;
+        margin-right: 2.2em;
+        margin-bottom: 1em;
+    }
+
+    #arrow {
+        display: none;
+    }
+
+    .news {
+        font-size: 2rem;
+        margin-left: 14.5em;
+        height: 90px;
+    }
+
+    .ready-get {
+        font-size: 6rem;
+        margin-top: 1em;
+        padding-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+
+    .saas {
+        font-size: 3rem;
+        padding-top: 1em;
+    }
+
+    .contact {
+        font-size: 3rem;
+        height: 100px;
+        margin-right: 2em;
+        border: 2px solid #000;
+        border-radius: 8px;
+    }
+
+    .tharun {
+        font-size: 3rem;
+        padding-right: 3em;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .nav-icons {
+        /* display: none; */
+        margin-left: 25em;
+    }
+
+    body {
+        
+        overflow-x: hidden;
+    }
+
+    .icons {
+        font-size: 1.1rem;
+        padding-right: 1em; 
+    }
+/* 
+    .container-1 {
+        width: 100%;
+    } */
+
+    #down-arrow {
+        /* display: none; */
+    }
+    
+    .works {
+        width: 100%;
+        background: #0B1320;
+        height: 4em;
+        position: fixed;
+    }
+
+    .logos {
+        height: 2em;
+        margin-left: -14em;
+    }
+
+    .container-1 {
+        /* flex-direction: column; */
+    }
+
+
+    .easy {
+        padding: 10em 0 0 5em;
+    }
+
+    #header {
+        font-size: 3rem;
+        
+    }
+
+    .made {
+        font-size: 1rem;
+        margin-right: 2em;
+    }
+
+    #face {
+        width:max-content;
+        height: 40em;
+        padding-left: 4em;
+        margin-top: 1em;
+        
+    }
+
+    .buttons {
+        display: flex;
+    }
+
+    .get {
+        height: 40px;
+        width: 180px;
+        font-size: 1rem;
+        margin-top: 1em;
+        padding: 0 1.5em 0 1.5em;
+    }
+
+    .sales {
+        height: 40px;
+        width: 230px;
+        font-size: 1rem;
+        margin-top: 1em;
+    }
+
+
+    .container-2 {
+        margin-left: 0px;
+    }
+
+
+    .love {
+        font-size: 3rem;
+        margin-top: -1em;
+        margin-right: 200px;
+    }
+
+    .fresh {
+        font-size: 1.5rem;
+        margin-right: 200px;
+        z-index: 999;
+    }
+
+    .container-3 {
+        margin-right: 200px;
+    }
+
+    .hand-shake, .computer {
+        height: 300px;
+        /* padding-right: 7em; */
+    }
+
+    .computer {
+        margin-left: -13em;
+    }
+
+    .you, .you-1 {
+        font-size: 2rem;
+        margin-top: -0.7em;
+    }
+
+    .exceed {
+        font-size: 1.2rem;
+        line-height: 1.5rem;
+    }
+
+    .exceed-1 {
+        font-size: 1.2rem;
+        line-height: 1.5rem;
+        margin-left: -11em;
+    }
+
+    .delight {
+        margin-right: 200px;
+    }
+
+    #solution, #solution-1 {
+        font-size: 1rem;
+        width: 400px;
+        height: 50px;
+        margin-top: 1em;
+    }
+
+    #solution {
+        padding: 0 2em 0 2em;
+    }
+
+    #solution-1 {
+        height: 40px;
+        margin-left: -11em; 
+    }
+
+    .market, .market-1 {
+        margin-top: 1em;
+        height: 50px;
+        font-size: 1rem;
+        padding: 0 0 0 0;
+        width: 400px;
+    }
+
+    .market-1 {
+        margin-left: -11em;
+    }
+
+    .you-1 {
+        /* margin-right: 1.5em; */
+        margin-left: -6em;
+    }
+
+    .container-4 {
+        background-color: #0B1320;
+        width: 100%;
+        height: 65em;
+        margin: 50px 0px 0px 0px;
+    }
+
+    .less {
+        font-size: 2.7rem;
+        margin-top: -5rem;
+        margin-left: -350px;
+    }
+
+    .maker {
+        font-size: 1.3rem;
+        line-height: 2em;
+        margin-left: -370px;
+    }
+
+    .runner {
+        margin: 0 0 0 0;
+    }
+
+    .friction {
+        margin-left: 440px;
+    }
+
+    .runner-1 {
+        margin: 600px 0 0 0;
+    }
+
+    .runner {
+        margin-top: 250px;
+    }
+
+    .purchase {
+        font-size: 1.4rem;
+    }
+
+    .notification {
+        height: 6em;
+        margin-top: 2em;
+    }
+
+    .onboard, #onboard-1 {
+        font-size: 1.2rem;
+    }
+
+
+    .free-trail {
+        font-size: 1.1rem;
+        margin-top: 0.5em;
+    }
+
+    #visit {
+        font-size: 1rem;
+        margin-top: 0.5em;
+    }
+
+    .get-up {
+        /*margin-right: 50px; */
+        margin-left:30px;
+    }
+
+    .container-5 {
+        margin-right: 200px;
+    }
+
+    .trust {
+        font-size: 2.2rem;
+    }
+
+    .leading {
+        font-size: 1rem;
+    }
+
+    .logos-com-1 {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin-right: 200px;
+    }
+
+    .logos-com {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin-right: 200px;
+    }
+
+    .pear, .brew, .stone, .show, .klarna, .vice {
+        height: 60px;
+        padding-right: 0.5em;
+        padding-top: 1em;     
+    }
+
+    .waterstons {
+        margin-top: -5em;
+        margin-right: 200px;
+    }
+
+    .upper, .close {
+        height: 50px;
+    }
+
+    .tons {
+        height: 200px;
+        width: auto;
+        padding: 0 10em 0 10em;
+    }
+
+    .great {
+        font-size: 1.2rem;
+        margin-top: -1em;
+        
+        margin-right: 200px;
+    }
+
+    .services {
+        font-size: 1.2em;
+        
+        margin-right: 200px;
+    }
+
+    .dots {
+        
+        margin-top: 2em;
+        margin-right: 200px;
+    }
+
+    #first-dot, #second-dot, #third-dot {
+        padding-right: 1em;
+        margin-top: 2em;
+    }
+
+    .aspire {
+        font-size: 1.5rem;
+        margin-top: 2em;
+        margin-right: 200px;
+    }
+
+    .card-flex {
+        flex-direction: column;
+    }
+
+    .hat {
+        height: 20em;
+    }
+
+    .cult {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .cards {
+        
+        margin-right: 220px;
+    }
+
+    .support {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .lives {
+        font-size: 1rem;
+        height: 40px;
+        margin-left: 500px;
+    }
+
+    .new {
+        font-size: 3rem;
+        margin-top: 2em;
+        margin-right: 200px;
+    }
+
+    .container-9 {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .container-10 {
+        /* flex-direction: column; */
+    }
+
+    .container-10 {
+        margin-right: 170px;
+    }
+
+    .forbes {
+        height: 250px;
+        margin-top: 2em;
+    }
+
+    .rank-numbers {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .cloud {
+        font-size: 1.5rem;
+    }
+
+    .itsm {
+        font-size: 1rem;
+    }
+
+    .read-more {
+        font-size: 1rem;
+        margin-bottom: 1em;
+    }
+
+    #arrow {
+        display: none;
+    }
+
+    .news {
+        font-size: 1rem;
+        height: 40px;
+        margin-left: 550px;
+    }
+
+    .ready-get {
+        margin-top: -2em;
+        font-size: 2.5rem;
+        margin-right: 150px;
+
+    }
+
+    .saas {
+        font-size: 1.4rem;
+        margin-right: 160px;
+        
+    }
+
+    .contact {
+        font-size: 1rem;
+        height: 40px;
+        border: 2px solid #000;
+        border-radius: 5px;
+        margin-right: 150px;
+        
+    }
+
+    .tharun {
+        font-size: 1.5rem;
+        padding-right: 3em;
+        
+    }
+}
+
+@media screen and (max-width:1320px) {
+    .nav-icons {
+        /* display: none; */
+        margin-left: 25em;
+    }
+
+    body {
+        
+        overflow-x: hidden;
+    }
+
+    .icons {
+        font-size: 1em;
+        padding-right: 1em; 
+    }
+/* 
+    .container-1 {
+        width: 100%;
+    } */
+
+    #down-arrow {
+        /* display: none; */
+    }
+    
+    .works {
+        width: 100%;
+        background: #0B1320;
+        height: 4em;
+        position: fixed;
+    }
+
+    .logos {
+        height: 2em;
+        margin-left: -10em;
+    }
+
+    .container-1 {
+        /* flex-direction: column; */
+    }
+
+
+    .easy {
+        padding: 10em 0 0 5em;
+    }
+
+    #header {
+        font-size: 3rem;
+        
+    }
+
+    .made {
+        font-size: 1rem;
+        margin-right: 2em;
+    }
+
+    #face {
+        width:max-content;
+        height: 40em;
+        padding-left: 4em;
+        margin-top: 1em;
+        
+    }
+
+    .buttons {
+        display: flex;
+    }
+
+    .get {
+        height: 40px;
+        width: 180px;
+        font-size: 1rem;
+        margin-top: 1em;
+        padding: 0 1.5em 0 1.5em;
+    }
+
+    .sales {
+        height: 40px;
+        width: 230px;
+        font-size: 1rem;
+        margin-top: 1em;
+    }
+}
+
